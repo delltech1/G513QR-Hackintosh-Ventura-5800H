@@ -1,12 +1,3 @@
-    <html>
-    <head>
-    <title>G513QR-Hackintosh-Ventura-5800H</title>
-    <meta name="google-site-verification" content="GZ5Ua1HGOMqk5IAmCq6vwqy2HiAQ93yfQHNglk2z5X8" />
-    </head>
-    <body>
-        G513QR-Hackintosh-Ventura-5800H
-    </body>
-    </html>
 
 # G513QR Hackintosh-Ventura-5800H
  Ventura for Asus Rog Strix G513QR with Ryzen 5800H
